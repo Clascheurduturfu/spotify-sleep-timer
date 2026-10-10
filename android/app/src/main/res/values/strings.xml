@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spotify Sleep Timer</string>
+    <string name="notification_channel_name">Sleep Timer Status</string>
+    <string name="notification_channel_desc">Shows ongoing sleep timer and track completion status</string>
+</resources>

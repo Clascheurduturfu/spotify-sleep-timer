@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.8"
+        android:scaleY="1.8"
+        android:translateX="32.4"
+        android:translateY="32.4">
+        <!-- Moon in Spotify Green -->
+        <path
+            android:fillColor="#1DB954"
+            android:pathData="M12.3,2a10,10 0,0 0,-1.9 0.18,10 10 0,1 1,9.72 13.02,10.05 10.05 0,0 1,-7.82 -13.2z" />
+    </group>
+</vector>

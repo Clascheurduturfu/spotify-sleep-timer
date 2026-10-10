@@ -1,0 +1,34 @@
+# Local credentials and OAuth state
+.env
+.env.*
+!.env.example
+.spotify_cache
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Gradle and Android build outputs
+.gradle/
+**/.gradle/
+.kotlin/
+**/.kotlin/
+**/build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+signing.properties
+keystore.properties
+key.properties
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
